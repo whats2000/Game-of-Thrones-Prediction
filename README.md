@@ -51,7 +51,7 @@ Please download the dataset from the [Kaggle Topic Test Competition](https://www
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Game-of-Thrones-Prediction.git
+   git clone https://github.com/whats2000/Game-of-Thrones-Prediction.git
    cd Game-of-Thrones-Prediction
    ```
 
